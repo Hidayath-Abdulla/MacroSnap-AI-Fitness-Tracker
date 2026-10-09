@@ -44,4 +44,4 @@ MacroSnap is an AI-powered nutrition and workout assistant built using Google Ge
 
 API keys and passwords are not stored in the public repository.
 
-##Demo : https://macrosnap-ai-fitness-tracker.streamlit.app/
+## Demo : https://macrosnap-ai-fitness-tracker.streamlit.app/
